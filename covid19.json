@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-covid19-314616",
+  "private_key_id": "79e31c19db45741ff6f6446d242135d34700de8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx4EoHl8l7b4Wf\n18l2nonxoL3/yDh5JHmPK/7O7sGWQTPCYh2wkxqgc5VWYVVVizV66OWZExs61sRw\n9WHJ/ECc56GuMwZU2M1g7X3gY03imRyP5XxQPUtwBBj1sLV3/yMoOtvVKEQwzoZB\nnRM//RGD97VVeAydP/0hVubI+TT5sPHsu+p1XxrwgPYokLAsmDOnFtkfB7USjJ+g\nOi6I823GtKMGrQf31jvWlbv4FKgtYtuzA56gWtvpZa/WOEMupjqGcZ+Ef/4TqPej\nQV02AIKJL7tcz0xWhgE8/szs8+4MwyB1iH3na1AZx00ya7oYt4jj32Be8dkU1z+S\nkoOxBLXzAgMBAAECgf8BK1Cd7YpsphkVuMMy8EOy/HtWut+MxARt5Vg9CSxx3L17\nAdG7L8N/pCoqTIz67DoM9EmR9wpJn4uh6vmyblWOouEMYAXpqAzpbUImO/xSHt+b\nlcgKrMmgH7Nw9a/y5/GnCJ9r5c4dL4xPm+1WVWeoO0iEJis5IPYfFSXUkGq5yF+C\nJkEzk7qtrart58aZN9QygMxh1vEgjSX78Qap3TqYcg2jEnv8MP6x6HvQ1aZX0Zha\nx4J1YCTGblHGhhSeIk6D4AnFMIdzOjsi/M0BJ3pjZL7vfLad6SsaMFbuYkbRpBtO\nFE0AGAaobjk5hsI3+WMkT7k8DrJe49hTq5t9WRUCgYEA6aVPMvIvV7Ty4QUzdYz7\na1E+cSOEK4FkSDWSJQejiZVmhTGyEbYolE3cYQvxzkCdMhhAzwZo90wfOlpA2M6K\nqIQIjdwSeLIbgiXm+4LRu2XpPiTN4XgCKUPA26aXJQUlOgTT18C0yjcxkwRg0Qy/\nAYvwmTsfVR9EUo2GbruI01UCgYEAwuUDb/r+2DZOOmxsXMi0LsrprAN7KXU5HYCB\na9FW/aKMbrg9EQ8CKliJVQwJlyI272EFCBbB6wk9esNQ5BssFu1PMsAWRm5CzJKN\n+28egb0tdHobz6gaSdDNJ/6GiDKk+dja//fN7ObgIl1aRwx1WYHo/xO349lQIiJf\nERXCdCcCgYEAg1d7Ww9Lz8kXk6kh0V3sY9qq+FzXysEVB4ad3hUaOJh0pkFWcaBt\n1VijnyZgyuoFtAhwPjDDRulS0LG1rGsHBU4bpOtmstSkpBf8bbyPfAIBCP8VgT6+\nMEY3HwLaCmSHFcNq9ukMeHRoeNXIOxwoL41kNi9HIMnP1XxbatofQ3UCgYEAr8pz\nvEiwH4N0MjxjzZj29RHvjUkiiTWDy/mCQybyiRpaAvBJnJ5l/J4ZWU3fRKQG2wou\nyKoGRaLzAk00JFvh+9gXTJZ4QRTpSa6TRIxo/usNGfeeKELfW19r/TwWSrkrl3Sj\nrKfu5VUmK7j6WgWBv7du2s0FXA5Culc4Wqe+2pcCgYEAlq9fmmhrhn0wi0fgSrNf\nwBAVKk+Dqz0wN/TGzWvG84dMzdZGWFPpKgcSt8Qnp/gRMul2hezmBUITNpARG4au\nPjzToIgrjiwIHGot6dMMr3tYE+qdD6npNmR3qBJL8HWJcRxFou7kK073Pr4UCEf1\nHAaTgyWTg+giWeL4pvcP6DE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "covid19-taiwan-tableau@my-project-covid19-314616.iam.gserviceaccount.com",
+  "client_id": "105550778296331963567",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covid19-taiwan-tableau%40my-project-covid19-314616.iam.gserviceaccount.com"
+}
