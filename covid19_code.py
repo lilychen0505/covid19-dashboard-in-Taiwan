@@ -186,7 +186,7 @@ Url = ['https://spreadsheets.google.com/feeds']
 Connect = SAC.from_json_keyfile_name(Json, Url)
 GoogleSheets = gspread.authorize(Connect)
 # 開啟資料表及工作表
-Sheet = GoogleSheets.open_by_key('1Tw0_YTw9rq4WKzO1uD8mrGIGdLQAdSekmkpiWDft4TE')
+Sheet = GoogleSheets.open_by_key('my key')
 # Sheets = Sheet.sheet1
 # 查看此 GoogleSheet 內 Sheet 清單
 wks_list = Sheet.worksheets()
